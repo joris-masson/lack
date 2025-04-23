@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " cc",
+        " dc",
+        "s  "
+    ],
+    "key": {
+        "d": "minecraft:diamond",
+        "c": "minecraft:prismarine_crystals",
+        "s": "minecraft:prismarine_shard"
+    },
+    "result": {
+        "id": "minecraft:trident",
+        "count": 1
+    }
+}

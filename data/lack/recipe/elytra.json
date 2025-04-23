@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " c ",
+        "msm",
+        "m m"
+    ],
+    "key": {
+        "c": "minecraft:popped_chorus_fruit",
+        "s": "minecraft:nether_star",
+        "m": "minecraft:phantom_membrane"
+    },
+    "result": {
+        "id": "minecraft:elytra",
+        "count": 1
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " i",
+        "p "
+    ],
+    "key": {
+        "i": "minecraft:iron_nugget",
+        "p": "minecraft:paper"
+    },
+    "result": {
+        "id": "minecraft:name_tag",
+        "count": 1
+    }
+}
